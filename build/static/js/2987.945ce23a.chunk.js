@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwormhole_connector=self.webpackChunkwormhole_connector||[]).push([[2987],{2987:(e,o,t)=>{t.r(o),t.d(o,{WebSocket:()=>r});var n=t(7547);const r=function(){if(typeof WebSocket<"u")return WebSocket;if(typeof n.d.global.WebSocket<"u")return n.d.global.WebSocket;if(typeof window.WebSocket<"u")return window.WebSocket;if(typeof self.WebSocket<"u")return self.WebSocket;throw new Error("`WebSocket` is not supported in this environment")}()}}]);
+//# sourceMappingURL=2987.945ce23a.chunk.js.map
