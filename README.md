@@ -38,6 +38,8 @@ npm install
 npm start
 ```
 
+Custom listening port and host: `HOST=0.0.0.0 PORT=8888 npm start`
+
 The app should now be running on http://localhost:3000.
 
 ## Code Overview

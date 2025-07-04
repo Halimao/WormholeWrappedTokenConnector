@@ -39,6 +39,9 @@ function App() {
 				'0xB8A677E6D805c8d743e6f14c8bC9C19305b5deFC': { // Newt
 					'Ethereum': '0xD0eC028a3D21533Fdd200838F39c85B03679285D',
 				},
+				'0x75a5863A19aF60ec0098d62ED8C34cc594fB470f': { // MPLX
+					'Solana': 'METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m',
+				},
 			},
 		},
 	};
